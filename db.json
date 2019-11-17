@@ -3,80 +3,53 @@
   "type": "dairy",
   "description": "Raw organic brown eggs in a basket",
   "filename": "0.jpg",
-  "height": 600,
-  "width": 400,
-  "price": 28.1,
-  "rating": 4
+  "price": 28.1
 }, {
   "title": "Granola",
   "type": "dairy",
   "description": "Glass jar with homemade granola and yogurt with nuts, raspberries and blackberries on wooden cutting board over white textile in day light",
   "filename": "29.jpg",
-  "height": 450,
-  "width": 300,
-  "price": 29.97,
-  "rating": 3
+  "price": 29.97
 }, {
   "title": "Smoothie with chia seeds",
   "type": "fruit",
   "description": "Glass of red strawberry smoothie with chia seeds, served with retro cocktail tube, fresh mint and strawberries over wooden table",
   "filename": "30.jpg",
-  "height": 600,
-  "width": 900,
-  "price": 25.26,
-  "rating": 5
+  "price": 25.26
 }, {
   "title": "Yogurt",
   "type": "dairy",
   "description": "Homemade yogurt with raspberry and mint",
   "filename": "31.jpg",
-  "height": 450,
-  "width": 299,
-  "price": 27.61,
-  "rating": 4
+  "price": 27.61
 }, {
   "title": "Sandwich with salad",
   "type": "vegetable",
   "description": "Vegan sandwich with salad, tomato and radish",
   "filename": "32.jpg",
-  "height": 600,
-  "width": 398,
-  "price": 22.48,
-  "rating": 5
+  "price": 22.48
 }, {
   "title": "Cherry",
   "type": "fruit",
   "description": "Cherry with sugar on old table",
   "filename": "33.jpg",
-  "height": 600,
-  "width": 400,
-  "price": 14.35,
-  "rating": 5
+  "price": 14.35
 }, {
   "title": "Raw asparagus",
   "type": "vegetable",
   "description": "Raw fresh asparagus salad with cheese and dressing",
   "filename": "34.jpg",
-  "height": 600,
-  "width": 400,
-  "price": 22.97,
-  "rating": 4
+  "price": 22.97
 }, {
   "title": "Corn",
   "type": "vegetable",
   "description": "Grilled corn on the cob with salt and butter",
   "filename": "35.jpg",
-  "height": 450,
-  "width": 300,
-  "price": 13.55,
-  "rating": 2
+  "price": 13.55
 }, {
   "title": "Peaches on branch",
   "type": "fruit",
   "description": "Peaches on branch with leaves and glasses with peach juice and limonade with ice cubes in aluminum tray over old metal table. dark rustic style. top view.",
   "filename": "49.jpg",
-  "height": 600,
-  "width": 400,
-  "price": 25.62,
-  "rating": 3
+  "price": 25.62
 }]
