@@ -1,56 +1,32 @@
-{"grocery":[{
-  "title": "Brown eggs",
-  "type": "dairy",
-  "description": "Raw organic brown eggs in a basket",
-  "filename": "0.jpg",
-  "price": 28.1
-}, {
-  "title": "Granola",
-  "type": "dairy",
-  "description": "Glass jar with homemade granola and yogurt with nuts, raspberries and blackberries on wooden cutting board over white textile in day light",
-  "filename": "29.jpg",
-  "price": 29.97
-}, {
-  "title": "Smoothie with chia seeds",
-  "type": "fruit",
-  "description": "Glass of red strawberry smoothie with chia seeds, served with retro cocktail tube, fresh mint and strawberries over wooden table",
-  "filename": "30.jpg",
-  "price": 25.26
-}, {
-  "title": "Yogurt",
-  "type": "dairy",
-  "description": "Homemade yogurt with raspberry and mint",
-  "filename": "31.jpg",
-  "price": 27.61
-}, {
-  "title": "Sandwich with salad",
-  "type": "vegetable",
-  "description": "Vegan sandwich with salad, tomato and radish",
-  "filename": "32.jpg",
-  "price": 22.48
-}, {
-  "title": "Cherry",
-  "type": "fruit",
-  "description": "Cherry with sugar on old table",
-  "filename": "33.jpg",
-  "price": 14.35
-}, {
-  "title": "Raw asparagus",
-  "type": "vegetable",
-  "description": "Raw fresh asparagus salad with cheese and dressing",
-  "filename": "34.jpg",
-  "price": 22.97
-}, {
-  "title": "Corn",
-  "type": "vegetable",
-  "description": "Grilled corn on the cob with salt and butter",
-  "filename": "35.jpg",
-  "price": 13.55
-}, {
-  "title": "Peaches on branch",
-  "type": "fruit",
-  "description": "Peaches on branch with leaves and glasses with peach juice and limonade with ice cubes in aluminum tray over old metal table. dark rustic style. top view.",
-  "filename": "49.jpg",
-  "price": 25.62
-}]
+{
+  "Data" : {
+    "Eggs" : {
+      "01" : {
+        "image" : "https://firebasestorage.googleapis.com/v0/b/on-the-gorocery.appspot.com/o/freeRangeEggs.jpg?alt=media&token=cece1fcb-cccf-4ee7-b304-3a9f03fd877e",
+        "price" : "$6.79",
+        "product name" : "Free Range Egss",
+        "size" : "12 Eggs Pack"
+      },
+      "02" : {
+        "image" : "https://firebasestorage.googleapis.com/v0/b/on-the-gorocery.appspot.com/o/GoldenEggs18Pack.png?alt=media&token=48b8debf-6609-43a7-8891-8707f45496f2",
+        "price" : "$4.70",
+        "product name" : "Golden Eggs",
+        "size" : "18 Eggs Pack"
+      }
+    },
+    "Milk" : {
+      "01" : {
+        "image" : "https://firebasestorage.googleapis.com/v0/b/on-the-gorocery.appspot.com/o/lucereneMilk2L.png?alt=media&token=8004b1c3-f63a-4260-a1dd-b07a7c6e6791",
+        "price" : "$2.69",
+        "product name" : "Lucerne Milk",
+        "size" : "2L"
+      },
+      "02" : {
+        "image" : "https://firebasestorage.googleapis.com/v0/b/on-the-gorocery.appspot.com/o/DairylandMilk2L.png?alt=media&token=f79737a4-f9c7-4d23-b3a2-1346ce4066ae",
+        "price" : "$3.19",
+        "product name" : "Dairyland Milk",
+        "size" : "2L"
+      }
+    }
+  }
 }
