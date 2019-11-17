@@ -1,4 +1,4 @@
-"grocery":[{
+{"grocery":[{
   "title": "Brown eggs",
   "type": "dairy",
   "description": "Raw organic brown eggs in a basket",
@@ -53,3 +53,4 @@
   "filename": "49.jpg",
   "price": 25.62
 }]
+}
