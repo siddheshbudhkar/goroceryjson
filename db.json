@@ -1,3 +1,4 @@
+[
   {
     "title": "Brown eggs",
     "type": "dairy",
@@ -18,7 +19,7 @@
     "description": "Baking cake in rural kitchen - dough  recipe ingredients (eggs, flour, sugar) on vintage wooden table from above.",
     "image": "5.jpg",
     "price": 11.14
-  },
+      },
   {
     "title": "Breakfast with muesli",
     "type": "dairy",
@@ -33,4 +34,4 @@
     "image": "27.jpg",
     "price": 27.81
   }
-
+]
