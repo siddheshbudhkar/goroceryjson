@@ -1,75 +1,158 @@
 {
   "dairy":[
-  {
-    "title": "Brown eggs",
-    "type": "dairy",
-    "description": "Raw organic brown eggs in a basket",
-    "image": "0.jpg",
-    "price": 28.1
-  },
-  {
-    "title": "Green smoothie",
-    "type": "dairy",
-    "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
-    "image": "3.jpg",
-    "price": 17.68
-  },
-  {
-    "title": "Baking cake",
-    "type": "dairy",
-    "description": "Baking cake in rural kitchen - dough  recipe ingredients (eggs, flour, sugar) on vintage wooden table from above.",
-    "image": "5.jpg",
-    "price": 11.14
-  },
      {
-    "title": "Breakfast with muesli",
-    "type": "dairy",
-    "description": "Concept of healthy breakfast with muesli",
-    "image": "22.jpg",
-    "price": 22.7
-  },
-  {
-    "title": "Ricotta",
-    "type": "dairy",
-    "description": "Ricotta with berry and mint",
-    "image": "27.jpg",
-    "price": 27.81
-  }
+      "title": "Brown eggs",
+      "type": "dairy",
+      "description": "Raw organic brown eggs in a basket",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/goldeneggs18pack.png",
+      "price": 28.1
+    },
+    {
+      "title": "Green smoothie",
+      "type": "dairy",
+      "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/greensmoothie.png",
+      "price": 17.68
+    },
+    {
+      "title": "Milk",
+      "type": "dairy",
+      "description": "Lucerne Milk 2L",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/lucereneMilk2L.png",
+      "price": 11.14
+    },
+    {
+      "title": "Black Diamond Cheese",
+      "type": "dairy",
+      "description": "Chedar Cheese",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/cheese.png",
+      "price": 22.7
+    },
+    {
+      "title": "Ricotta",
+      "type": "dairy",
+      "description": "Ricotta with berry and mint",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/ricotaCheese.png",
+      "price": 27.81
+    }
 ],
  "bakery": [{
-        "title": "Brown eggs",
-        "type": "dairy",
-        "description": "Raw organic brown eggs in a basket",
-        "filename": "0.jpg",
-        "price": 28.1
-      },
-           {
-        "title": "Green smoothie",
-        "type": "dairy",
-        "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
-        "filename": "3.jpg",
-        "price": 17.68
-      },
-      {
-        "title": "Baking cake",
-        "type": "dairy",
-        "description": "Baking cake in rural kitchen - dough  recipe ingredients (eggs, flour, sugar) on vintage wooden table from above.",
-        "filename": "5.jpg",
-        "price": 11.14
-      },
-      {
-        "title": "Breakfast with muesli",
-        "type": "dairy",
-        "description": "Concept of healthy breakfast with muesli",
-        "filename": "22.jpg",
-        "price": 22.7
-      },
-                {
-        "title": "Ricotta",
-        "type": "dairy",
-        "description": "Ricotta with berry and mint",
-        "filename": "27.jpg",
-        "price": 27.81
-      }
-    ]
+      "title": "Whole Wheat bread",
+      "type": "bakery",
+      "description": "Homemade bread",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/wwwjolewheatbread.png",
+      "price": 17.48
+    },
+    {
+      "title": "Black Forest Cake",
+      "type": "bakery",
+      "description": "Chocolate Cake with whipped cream and cherries",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/blackforestcake.png",
+      "price": 20.31
+    },
+    {
+      "title": "Blueberry Pie",
+      "type": "bakery",
+      "description": "Pie with Fresh Blueberries",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/bbpie.png",
+      "price": 17.01
+    },
+    {
+      "title": "Nanaimo bars",
+      "type": "bakery",
+      "description": "Three layer bar with wafer, nut and coconut crumb-base",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/nanaimobars.png",
+      "price": 18.5
+    }
+    ],
+  "fruit": [
+    {
+      "title": "Fresh pears",
+      "type": "fruit",
+      "description": "Sweet fresh pears on the wooden table",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/pears.png",
+      "price": 15.12
+    },
+    {
+      "title": "Oranges",
+      "type": "fruit",
+      "description": "Orange popsicle ice cream bars made from fresh oranges.  a refreshing summer treat.",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/oranges.png",
+      "price": 21.48
+    },
+    {
+      "title": "Cherry",
+      "type": "fruit",
+      "description": "Cherry with sugar on old table",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/cherry.png",
+      "price": 14.35
+    },
+    {
+      "title": "Fresh blueberries",
+      "type": "fruit",
+      "description": "Healthy breakfast. berry crumble with fresh blueberries, raspberries, strawberries, almond, walnuts, pecans, yogurt, and mint in ceramic plates over white wooden surface, top view",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/blueberry.png",
+      "price": 21.01
+    }
+  ],
+  "vegetable": [
+  {
+      "title": "Asparagus",
+      "type": "vegetable",
+      "description": "Asparagus with ham on the wooden table",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/asparagus.png",
+      "price": 18.95
+    },
+    {
+      "title": "Sweet Onion",
+      "type": "vegetable",
+      "description": "BC fresh Sweet onions",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/onion.png",
+      "price": 17.11
+    },
+    "Tomato": {
+      "title": "Fresh tomato",
+      "type": "vegetable",
+      "description": "Fresh tomato juice with basil",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/tomato.png",
+      "price": 16.3
+    },
+      "Beans": {
+      "title": "Green beans",
+      "type": "vegetable",
+      "description": "Raw organic green beans ready to eat",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/greenbeans.png",
+      "price": 28.79
+    }
+  ],
+  "meat": [
+   {
+      "title": "Whole Chicken",
+      "type": "meat",
+      "description": "Whole Chicken",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/wholechicken.png",
+      "price": 12.99
+    },
+    {
+      "title": "Pork Loin",
+      "type": "meat",
+      "description": "Delicious pork loin perfect for roasting",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/porkloin.png",
+      "price": 28.79
+    },
+    {
+      "title": "Beef Steak",
+      "type": "meat",
+      "description": "A big, beautiful slab of beef",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/beefsteak.png",
+      "price": 30.19
+    },
+    {
+      "title": "Honey Garlic Chicken Wings",
+      "type": "meat",
+      "description": "Chicken wings marinated with Honey Garlic sauce",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/honeygarlicchickenwings.png",
+      "price": 4.19
+    }
+   ]
 }
