@@ -1,161 +1,37 @@
-{ "Data" : {
-    "dairy" : {
-      "01" : {
- "title": "Brown eggs",
- "type": "dairy",
- "description": "Raw organic brown eggs in a basket",
- "filename": "0.jpg",
- "price": 28.1
-      },
-      "02" : {
- "title": "Green smoothie",
- "type": "dairy",
- "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
- "filename": "3.jpg",
- "price": 17.68
-      },
-      "03" : {
- "title": "Baking cake",
- "type": "dairy",
- "description": "Baking cake in rural kitchen - dough  recipe ingredients (eggs, flour, sugar) on vintage wooden table from above.",
- "filename": "5.jpg",
- "price": 11.14
-      },
- "04": {
- "title": "Breakfast with muesli",
- "type": "dairy",
- "description": "Concept of healthy breakfast with muesli",
- "filename": "22.jpg",
- "price": 22.7
- },
- "05": {
- "title": "Ricotta",
- "type": "dairy",
- "description": "Ricotta with berry and mint",
- "filename": "27.jpg",
- "price": 27.81
-}
-    },
-    "Bakery" : {
-      "01" : {
- "title": "Homemade bread",
- "type": "bakery",
- "description": "Homemade bread",
- "filename": "10.jpg",
- "price": 17.48
-      },
-      "02" : {
- "title": "Baked stuffed portabello mushrooms",
- "type": "bakery",
- "description": "Homemade baked stuffed portabello mushrooms with spinach and cheese",
- "filename": "15.jpg",
- "price": 20.31
-      },
- "03" : {
- "title": "Honey",
- "type": "bakery",
- "description": "Honey and honeycell on the table",
- "filename": "23.jpg",
- "price": 17.01
- },
- "04" : {
- "title": "Cuban sandwiche",
- "type": "bakery",
- "description": "Homemade traditional cuban sandwiches with ham pork and cheese",
- "filename": "28.jpg",
- "price": 18.5
- }
-    },
-"Fruit" : {
-"01" : {
- "title": "Fresh pears",
- "type": "fruit",
- "description": "Sweet fresh pears on the wooden table",
- "filename": "18.jpg",
- "price": 15.12
-},
-"02" : {
- "title": "Oranges",
- "type": "fruit",
- "description": "Orange popsicle ice cream bars made from fresh oranges.  a refreshing summer treat.",
- "filename": "20.jpg",
- "price": 21.48
-},
-"03" : {
- "title": "Cherry",
- "type": "fruit",
- "description": "Cherry with sugar on old table",
- "filename": "33.jpg",
- "price": 14.35
-},
-"04" : {
- "title": "Fresh blueberries",
- "type": "fruit",
- "description": "Healthy breakfast. berry crumble with fresh blueberries, raspberries, strawberries, almond, walnuts, pecans, yogurt, and mint in ceramic plates over white wooden surface, top view",
- "filename": "37.jpg",
- "price": 21.01
-}
-},
-"Vegetables" : {
-"01" : {
- "title": "Asparagus",
- "type": "vegetable",
- "description": "Asparagus with ham on the wooden table",
- "filename": "2.jpg",
- "price": 18.95
-},
-"02" : {
- "title": "Raw legums",
- "type": "vegetable",
- "description": "Raw legums on the wooden table",
- "filename": "4.jpg",
- "price": 17.11
-},
-"03" : {
- "title": "Fresh tomato",
- "type": "vegetable",
- "description": "Fresh tomato juice with basil",
- "filename": "12.jpg",
- "price": 16.3
-},
-"04" : {
- "title": "Green beans",
- "type": "vegetable",
- "description": "Raw organic green beans ready to eat",
- "filename": "14.jpg",
- "price": 28.79
-}
-},
-"Meat" : {
-"01" : {
- "title": "Shredded Chicken",
- "type": "meat",
- "description": "Rosted chicken shredded",
- "filename": "14.jpg",
- "price": 12.99
-},
-"02" :{
- "title": "Pork Loin",
- "type": "meat",
- "description": "Delicious pork loin perfect for roasting",
- "filename": "14.jpg",
- "price": 28.79
-},
-"03" : {
- "title": "Beef Steak",
- "type": "meat",
- "description": "A big, beautiful slab of beef",
- "filename": "14.jpg",
- "price": 30.19
-},
-"04" : {
- "title": "Honey Garlic Chicken Wings",
- "type": "meat",
- "description": "Chicken wings marinated with Honey Garlic sauce",
- "filename": "14.jpg",
- "price": 4.19
-
-}
-}
+[
+  {
+    "title": "Brown eggs",
+    "type": "dairy",
+    "description": "Raw organic brown eggs in a basket",
+    "image": "0.jpg",
+    "price": 28.1
+  },
+  {
+    "title": "Green smoothie",
+    "type": "dairy",
+    "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
+    "image": "3.jpg",
+    "price": 17.68
+  },
+  {
+    "title": "Baking cake",
+    "type": "dairy",
+    "description": "Baking cake in rural kitchen - dough  recipe ingredients (eggs, flour, sugar) on vintage wooden table from above.",
+    "image": "5.jpg",
+    "price": 11.14
+  },
+  {
+    "title": "Breakfast with muesli",
+    "type": "dairy",
+    "description": "Concept of healthy breakfast with muesli",
+    "image": "22.jpg",
+    "price": 22.7
+  },
+  {
+    "title": "Ricotta",
+    "type": "dairy",
+    "description": "Ricotta with berry and mint",
+    "image": "27.jpg",
+    "price": 27.81
   }
-}
+]
