@@ -110,14 +110,14 @@
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/onion.png",
       "price": 17.11
     },
-    "Tomato": {
+    {
       "title": "Fresh tomato",
       "type": "vegetable",
       "description": "Fresh tomato juice with basil",
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/tomato.png",
       "price": 16.3
     },
-      "Beans": {
+      {
       "title": "Green beans",
       "type": "vegetable",
       "description": "Raw organic green beans ready to eat",
