@@ -1,37 +1,159 @@
-[
-  {
-    "title": "Brown eggs",
-    "type": "dairy",
-    "description": "Raw organic brown eggs in a basket",
-    "image": "0.jpg",
-    "price": 28.1
+{
+  "dairy": {
+    "Brown eggs": {
+      "title": "Brown eggs",
+      "type": "dairy",
+      "description": "Raw organic brown eggs in a basket",
+      "image": "0.jpg",
+      "price": 28.1
+    },
+    "Green smoothie": {
+      "title": "Green smoothie",
+      "type": "dairy",
+      "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
+      "image": "3.jpg",
+      "price": 17.68
+    },
+    "Milk": {
+      "title": "Milk",
+      "type": "dairy",
+      "description": "Lucerne Milk 2L",
+      "image": "5.jpg",
+      "price": 11.14
+    },
+    "Cheese": {
+      "title": "Black Diamond Cheese",
+      "type": "dairy",
+      "description": "Chedar Cheese",
+      "image": "22.jpg",
+      "price": 22.7
+    },
+    "Ricotta": {
+      "title": "Ricotta",
+      "type": "dairy",
+      "description": "Ricotta with berry and mint",
+      "image": "27.jpg",
+      "price": 27.81
+    }
   },
-  {
-    "title": "Green smoothie",
-    "type": "dairy",
-    "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
-    "image": "3.jpg",
-    "price": 17.68
+  "Bakery": {
+    "Bread": {
+      "title": "Whole Wheat bread",
+      "type": "bakery",
+      "description": "Homemade bread",
+      "image": "10.jpg",
+      "price": 17.48
+    },
+    "Cake": {
+      "title": "Black Forest Cake",
+      "type": "bakery",
+      "description": "Chocolate Cake with whipped cream and cherries",
+      "image": "15.jpg",
+      "price": 20.31
+    },
+    "Pie": {
+      "title": "Blueberry Pie",
+      "type": "bakery",
+      "description": "Pie with Fresh Blueberries",
+      "image": "23.jpg",
+      "price": 17.01
+    },
+    "Nanaimo Bars": {
+      "title": "Nanaimo bars",
+      "type": "bakery",
+      "description": "Three layer bar with wafer, nut and coconut crumb-base",
+      "image": "28.jpg",
+      "price": 18.5
+    }
   },
-  {
-    "title": "Baking cake",
-    "type": "dairy",
-    "description": "Baking cake in rural kitchen - dough  recipe ingredients (eggs, flour, sugar) on vintage wooden table from above.",
-    "image": "5.jpg",
-    "price": 11.14
-      },
-  {
-    "title": "Breakfast with muesli",
-    "type": "dairy",
-    "description": "Concept of healthy breakfast with muesli",
-    "image": "22.jpg",
-    "price": 22.7
+  "Fruit": {
+    "Pears": {
+      "title": "Fresh pears",
+      "type": "fruit",
+      "description": "Sweet fresh pears on the wooden table",
+      "image": "18.jpg",
+      "price": 15.12
+    },
+    "Oranges": {
+      "title": "Oranges",
+      "type": "fruit",
+      "description": "Orange popsicle ice cream bars made from fresh oranges.  a refreshing summer treat.",
+      "image": "20.jpg",
+      "price": 21.48
+    },
+    "Cherry": {
+      "title": "Cherry",
+      "type": "fruit",
+      "description": "Cherry with sugar on old table",
+      "image": "33.jpg",
+      "price": 14.35
+    },
+    "Blueberry": {
+      "title": "Fresh blueberries",
+      "type": "fruit",
+      "description": "Healthy breakfast. berry crumble with fresh blueberries, raspberries, strawberries, almond, walnuts, pecans, yogurt, and mint in ceramic plates over white wooden surface, top view",
+      "image": "37.jpg",
+      "price": 21.01
+    }
   },
-  {
-    "title": "Ricotta",
-    "type": "dairy",
-    "description": "Ricotta with berry and mint",
-    "image": "27.jpg",
-    "price": 27.81
+  "Vegetables": {
+    "Asparagus": {
+      "title": "Asparagus",
+      "type": "vegetable",
+      "description": "Asparagus with ham on the wooden table",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/asparagus.png",
+      "price": 18.95
+    },
+    "Onion": {
+      "title": "Sweet Onion",
+      "type": "vegetable",
+      "description": "BC fresh Sweet onions",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/onion.png",
+      "price": 17.11
+    },
+    "Tomato": {
+      "title": "Fresh tomato",
+      "type": "vegetable",
+      "description": "Fresh tomato juice with basil",
+      "image": "12.jpg",
+      "price": 16.3
+    },
+    "Beans": {
+      "title": "Green beans",
+      "type": "vegetable",
+      "description": "Raw organic green beans ready to eat",
+      "image": "14.jpg",
+      "price": 28.79
+    }
+  },
+  "Meat": {
+    "Whole Chicken": {
+      "title": "Whole Chicken",
+      "type": "meat",
+      "description": "Whole Chicken",
+      "image": "14.jpg",
+      "price": 12.99
+    },
+    "Pork Loin": {
+      "title": "Pork Loin",
+      "type": "meat",
+      "description": "Delicious pork loin perfect for roasting",
+      "image": "14.jpg",
+      "price": 28.79
+    },
+    "Beef Steak": {
+      "title": "Beef Steak",
+      "type": "meat",
+      "description": "A big, beautiful slab of beef",
+      "image": "14.jpg",
+      "price": 30.19
+    },
+    "Chicken Wings": {
+      "title": "Honey Garlic Chicken Wings",
+      "type": "meat",
+      "description": "Chicken wings marinated with Honey Garlic sauce",
+      "image": "14.jpg",
+      "price": 4.19
+    }
   }
-]
+}
