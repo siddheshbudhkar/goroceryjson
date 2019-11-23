@@ -5,35 +5,49 @@
       "type": "dairy",
       "description": "Raw organic brown eggs in a basket",
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/goldeneggs18pack.png",
-      "price": 28.1
+      "price": 5.99
     },
     {
       "title": "Green smoothie",
       "type": "dairy",
       "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/greensmoothie.png",
-      "price": 17.68
+      "price": 2.99
     },
     {
       "title": "Milk",
       "type": "dairy",
       "description": "Lucerne Milk 2L",
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/lucereneMilk2L.png",
-      "price": 11.14
+      "price": 2.97
     },
     {
       "title": "Black Diamond Cheese",
       "type": "dairy",
       "description": "Chedar Cheese",
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/cheese.png",
-      "price": 22.7
+      "price": 8.99
     },
     {
       "title": "Ricotta",
       "type": "dairy",
       "description": "Ricotta with berry and mint",
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/ricotaCheese.png",
-      "price": 27.81
+      "price": 4.49
+    },
+    {
+      "title": "Activia Yougurt",
+      "type": "dairy",
+      "description": "Yogurt is a milk product obtained by fermentation of milk specific microorganisms, which shall be viable, active and abundant in the product.",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/yogurt.png",
+      "price": 6.59
+    },
+    {
+      "title": "Dairyland Butter",
+      "type": "dairy",
+      "description": "It is made by churning fresh or fermented cream or milk to separate the butterfat from the buttermilk.",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/butter.png",
+      "price": 3.69
     }
 ],
  "bakery": [{
@@ -41,28 +55,70 @@
       "type": "bakery",
       "description": "Homemade bread",
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/wwwjolewheatbread.png",
-      "price": 17.48
+      "price": 3.99
     },
     {
       "title": "Black Forest Cake",
       "type": "bakery",
       "description": "Chocolate Cake with whipped cream and cherries",
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/blackforestcake.png",
-      "price": 20.31
+      "price": 9.99
     },
     {
       "title": "Blueberry Pie",
       "type": "bakery",
       "description": "Pie with Fresh Blueberries",
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/bbpie.png",
-      "price": 17.01
+      "price": 7.99
     },
     {
       "title": "Nanaimo bars",
       "type": "bakery",
       "description": "Three layer bar with wafer, nut and coconut crumb-base",
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/nanaimobars.png",
-      "price": 18.5
+      "price": 8.59
+    },
+    {
+      "title": "Burger buns 6Pk",
+      "type": "bakery",
+      "description": "Soft, vaguely sweet and golden-yellow from the butter and egg, these simple buns are perfect for burgers",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/burgerbun.png",
+      "price": 2.99
+    },
+    {
+      "title": "Garlic bread",
+      "type": "bakery",
+      "description": "Garlic bread consists of bread, topped with garlic and olive oil or butter and may include additional herbs, such as oregano or chives. It is then either grilled or broiled until toasted or baked in a conventional or bread oven.",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/garlicbread.png",
+      "price": 5.99
+    },
+    {
+      "title": "Muffins Variety 6Pk",
+      "type": "bakery",
+      "description": "3 different types of muffins (Chocolate, Blueberry and Vanilla)",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/muffins.png",
+      "price": 5.49
+    },
+    {
+      "title": "Pita Bread",
+      "type": "bakery",
+      "description": "Pita is actually a very straightforward bread dough",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/pitabread.png",
+      "price": 2.49
+    },
+    {
+      "title": "Donuts",
+      "type": "bakery",
+      "description": "A doughnut or donut is a type of fried dough confection or dessert food",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/donuts.png",
+      "price": 4.49
+    },
+    {
+      "title": "Milk Rusk",
+      "type": "bakery",
+      "description": "Milk rusk is basically bread which has been baked till it gets really crispy",
+      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/milkrusk.png",
+      "price": 3.15
     }
     ],
   "fruit": [
@@ -71,28 +127,28 @@
       "type": "fruit",
       "description": "Sweet fresh pears on the wooden table",
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/pears.png",
-      "price": 15.12
+      "price": 2.99
     },
     {
       "title": "Oranges",
       "type": "fruit",
       "description": "Orange popsicle ice cream bars made from fresh oranges.  a refreshing summer treat.",
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/oranges.png",
-      "price": 21.48
+      "price": 3.99
     },
     {
       "title": "Cherry",
       "type": "fruit",
       "description": "Cherry with sugar on old table",
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/cherry.png",
-      "price": 14.35
+      "price": 4.19
     },
     {
       "title": "Fresh blueberries",
       "type": "fruit",
       "description": "Healthy breakfast. berry crumble with fresh blueberries, raspberries, strawberries, almond, walnuts, pecans, yogurt, and mint in ceramic plates over white wooden surface, top view",
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/blueberry.png",
-      "price": 21.01
+      "price": 1.99
     }
   ],
   "vegetable": [
@@ -101,28 +157,28 @@
       "type": "vegetable",
       "description": "Asparagus with ham on the wooden table",
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/asparagus.png",
-      "price": 18.95
+      "price": 6.99
     },
     {
       "title": "Sweet Onion",
       "type": "vegetable",
       "description": "BC fresh Sweet onions",
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/onion.png",
-      "price": 17.11
+      "price": 1.19
     },
     {
       "title": "Fresh tomato",
       "type": "vegetable",
       "description": "Fresh tomato juice with basil",
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/tomato.png",
-      "price": 16.3
+      "price": 1.99
     },
       {
       "title": "Green beans",
       "type": "vegetable",
       "description": "Raw organic green beans ready to eat",
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/greenbeans.png",
-      "price": 28.79
+      "price": 2.99
     }
   ],
   "meat": [
@@ -131,28 +187,28 @@
       "type": "meat",
       "description": "Whole Chicken",
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/wholechicken.png",
-      "price": 12.99
+      "price": 6.99
     },
     {
       "title": "Pork Loin",
       "type": "meat",
       "description": "Delicious pork loin perfect for roasting",
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/porkloin.png",
-      "price": 28.79
+      "price": 4.79
     },
     {
       "title": "Beef Steak",
       "type": "meat",
       "description": "A big, beautiful slab of beef",
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/beefsteak.png",
-      "price": 30.19
+      "price": 3.59
     },
     {
       "title": "Honey Garlic Chicken Wings",
       "type": "meat",
       "description": "Chicken wings marinated with Honey Garlic sauce",
       "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/honeygarlicchickenwings.png",
-      "price": 4.19
+      "price": 1.19
     }
    ]
 }
